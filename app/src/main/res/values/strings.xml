@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">POIApp</string>
+    <string name="header_title">Places of Interest</string>
+    <string name="search_hint">Search by place title...</string>
+</resources>
